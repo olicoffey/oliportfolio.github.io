@@ -1,7 +1,3 @@
----
-permalink: /about-me.html
----
-
 ## About Me
 
 + Junior Software Engineer at HorizonTwoLabs
